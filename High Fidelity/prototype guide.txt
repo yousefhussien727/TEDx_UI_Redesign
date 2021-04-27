@@ -1,0 +1,13 @@
+**This helps you in going through the prototype**
+
+*Try to swipe left and right between tabs
+*try the search button
+*try login button and the 3-dot settings
+*click on the first video in "Watch" page - "Newest" tab
+*when you open the video player screen:
+-try pause and play
+-click on caption and rewind buttons
+-try like, download, save, follow buttons
+-scroll down to see the comment section added 
+
+**Hope you like it**

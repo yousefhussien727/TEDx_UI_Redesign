@@ -1,0 +1,7 @@
+I re-designed TED mobile application Interface
+
+This was HCI project that concentrates on upgrading the UI of an app to be more consistent and friendly to the user
+
+If you had "JustInMind" software you can take a look at the prototype to see the new UI comes alive as it has some cool animations.
+
+*if you have time you can compare it with the real application to see the difference*
